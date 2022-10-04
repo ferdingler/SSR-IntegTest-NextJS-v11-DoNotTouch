@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">fdingler.com!</a>
+          Today is Oct 4, 2022. This is the second build
         </h1>
 
         <p className={styles.description}>
