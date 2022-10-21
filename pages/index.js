@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Today is Oct 20, 2022
+          Welcome to PR Preview - First Build
         </h1>
 
         <p className={styles.description}>
